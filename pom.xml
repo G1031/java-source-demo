@@ -16,6 +16,7 @@
     <version>1.0</version>
     <modules>
         <module>demo</module>
+        <module>workflow</module>
     </modules>
 
     <properties>
